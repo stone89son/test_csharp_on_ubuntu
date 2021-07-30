@@ -6,8 +6,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("aaaaaaaaaa");
             Console.WriteLine("Hello World!");
 
+        }
+        public static void TestFun() {
+            Console.WriteLine("kkkkkkkkkkk");
         }
     }
 }

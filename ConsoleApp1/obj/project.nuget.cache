@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N1Lw3AZiSQ7w9TxNvJ/wIJ1qym68nhG/O217iSZznP+qum3/8uBfI2O3S4u2ztL65oHv4insF/Qh7Es+zjnVVw==",
+  "dgSpecHash": "NCkMQGErcCR4pcq1NreA2b/CegrMKCQm7Qq6r2JJpazhTuVvleD4wbelEbMp1XMp7T08rXv7kvd3PmoqG73Rug==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Test\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\Projects\\Test\\user2\\test_csharp_on_ubuntu\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AKASHIRC.AD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],

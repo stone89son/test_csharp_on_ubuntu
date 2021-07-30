@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Projects\\Test\\user2\\test_csharp_on_ubuntu\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Projects\\Test\\user2\\test_csharp_on_ubuntu\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Projects\\Test\\user2\\test_csharp_on_ubuntu\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Projects\\Test\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\Projects\\Test\\user2\\test_csharp_on_ubuntu\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\AKASHIRC.AD\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Projects\\Test\\user2\\test_csharp_on_ubuntu\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
